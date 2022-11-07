@@ -1,0 +1,8 @@
+body {
+    cursor: none;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    overflow: hidden;
+    font-family: 'Montserrat', sans-serif;
+background-color: rgb(228, 52, 52);}
